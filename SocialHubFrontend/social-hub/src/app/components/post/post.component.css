@@ -1,0 +1,14 @@
+.post {
+    width: 800px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .liked {
+    border: solid 2px #39a2db;
+  }
+  
+  .not-liked {
+    border: solid 2px lightgray;
+  }
